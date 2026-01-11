@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ASKA - はじまりはいつも雨 (Official Music Video)",
+  "base_artist": "ASKA",
+  "createdAt": "2026-01-11T08:48:02.069247Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Glimmer og aska",
+      "artist": "Kælan Mikla",
+      "has_synced": false,
+      "path": "select/01_Glimmer_og_aska_Kælan_Mikla.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chikyutoiunanomiyako (feat. ASKA)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/02_Chikyutoiunanomiyako_(feat._ASKA)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aşka Bağlan - Akustik",
+      "artist": "Ömür Gedik",
+      "has_synced": false,
+      "path": "select/03_Aşka_Bağlan_-_Akustik_Ömür_Gedik.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gözleri Aşka Gülen",
+      "artist": "Nesrin Sipahi",
+      "has_synced": true,
+      "path": "select/04_Gözleri_Aşka_Gülen_Nesrin_Sipahi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gel Aşka Gel (Kocan Kadar Konuş: Diriliş Orijinal Film Müziği)",
+      "artist": "Nil Karaibrahimgil",
+      "has_synced": true,
+      "path": "select/05_Gel_Aşka_Gel_(Kocan_Kadar_Konuş__Diriliş_Orijinal_Film_Müziği)_Nil_Karaibrahimgil.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aşka Davet",
+      "artist": "Niran Ünsal",
+      "has_synced": true,
+      "path": "select/06_Aşka_Davet_Niran_Ünsal.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Aska Yürek Gerek",
+      "artist": "Mustafa Sandal",
+      "has_synced": true,
+      "path": "select/07_Aska_Yürek_Gerek_Mustafa_Sandal.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Aşka Yürek Gerek",
+      "artist": "Mustafa Sandal",
+      "has_synced": true,
+      "path": "select/08_Aşka_Yürek_Gerek_Mustafa_Sandal.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aşka Yürek Gerek (Orient Mix)",
+      "artist": "Mustafa Sandal",
+      "has_synced": false,
+      "path": "select/09_Aşka_Yürek_Gerek_(Orient_Mix)_Mustafa_Sandal.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Aşka Yürek Gerek (Orient mix)",
+      "artist": "Mustafa Sandal",
+      "has_synced": true,
+      "path": "select/10_Aşka_Yürek_Gerek_(Orient_mix)_Mustafa_Sandal.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Aşka Yürek Gerek (Club Trance Mix)",
+      "artist": "Mustafa Sandal",
+      "has_synced": true,
+      "path": "select/11_Aşka_Yürek_Gerek_(Club_Trance_Mix)_Mustafa_Sandal.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Aşka Yürek Gerek (Dance Mix)",
+      "artist": "Mustafa Sandal",
+      "has_synced": false,
+      "path": "select/12_Aşka_Yürek_Gerek_(Dance_Mix)_Mustafa_Sandal.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Aşka Yürek Gerek (dance mix)",
+      "artist": "Mustafa Sandal",
+      "has_synced": true,
+      "path": "select/13_Aşka_Yürek_Gerek_(dance_mix)_Mustafa_Sandal.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gözleri Aşka Gülen",
+      "artist": "Muazzez Ersoy",
+      "has_synced": false,
+      "path": "select/14_Gözleri_Aşka_Gülen_Muazzez_Ersoy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Gözleri Aşka Gülen",
+      "artist": "Nilipek.",
+      "has_synced": true,
+      "path": "select/15_Gözleri_Aşka_Gülen_Nilipek..lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Gözleri Aşka Gülen",
+      "artist": "Nilipek.",
+      "has_synced": true,
+      "path": "select/16_Gözleri_Aşka_Gülen_Nilipek..lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Aska I Vinden",
+      "artist": "Petra Marklund",
+      "has_synced": false,
+      "path": "select/17_Aska_I_Vinden_Petra_Marklund.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Every Day Of Your Life (feat. Aska)",
+      "artist": "Richard Marx",
+      "has_synced": false,
+      "path": "select/18_Every_Day_Of_Your_Life_(feat._Aska)_Richard_Marx.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ur aska och sot",
+      "artist": "Vintersorg",
+      "has_synced": false,
+      "path": "select/19_Ur_aska_och_sot_Vintersorg.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はじまりはいつも雨",
+      "artist": "ASKA",
+      "has_synced": false,
+      "path": "select/pl_01_はじまりはいつも雨_ASKA.txt"
+    }
+  ]
+}
